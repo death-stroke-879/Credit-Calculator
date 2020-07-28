@@ -1,4 +1,5 @@
-Credit Calculator
+# Credit Calculator
+![](Credit Calculator.gif)
 
 About:
 
